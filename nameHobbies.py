@@ -1,0 +1,1 @@
+# function that takes a name as a positional argument and any number of hobbies as *args
